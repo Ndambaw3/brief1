@@ -10,14 +10,13 @@
 span1{
     color: rgb(161, 51, 51);
 }
-section2{
-    background-color: 
-}
+
 p1{
     text-align: center;
 }
 .partie2{
     background-color:rgb(161, 51, 51);
+    height: 100%;
 }
 .partie3{
     background-color: black;
@@ -32,9 +31,15 @@ span2{
 }
 button{
     background-color: black;
+    padding: 5px;
+   
 }
-p2{
-    float: right;
+.droite1{
+    float:right;
+
+ }
+ p{
+    text-align: center;
  }
   
 
